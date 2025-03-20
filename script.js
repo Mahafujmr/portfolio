@@ -46,10 +46,10 @@ navLinks.forEach((link) => {
 });
 document.getElementById('chatButton').addEventListener('click', function() {
   // Redirect to WhatsApp chat with a pre-filled message
-  window.location.href = 'https://wa.me/923059660993?text=Hi, I would like to chat with you.';
+  window.location.href = 'https://www.linkedin.com/in/mr-tuhin-learning/, I would like to chat with you.';
 });
 document.getElementById('hireMeButton').addEventListener('click', function() {
-  window.location.href = 'mailto:waqasmuhammad5254@gmail.com?subject=I want to hire you&body=Hello, I would like to discuss an opportunity to work with you.';
+  window.location.href = 'mailto:tuhinmahafuj555@gmail.com?subject=I want to hire you&body=Hello, I would like to discuss an opportunity to work with you.';
 });
 
 
